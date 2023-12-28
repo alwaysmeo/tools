@@ -2,7 +2,7 @@
 
 ## 💬 Language
 
-- [简体中文](https://github.com/Alwaysmeo/alwaysme/blob/main/tools/README_zh_Hans.md) | English
+- English | [简体中文](https://github.com/alwaysmeo/tools/blob/main/README_zh_Hans.md)
 
 ## Description
 

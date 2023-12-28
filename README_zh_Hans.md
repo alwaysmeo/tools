@@ -2,7 +2,7 @@
 
 ## 💬 语言
 
-- 简体中文 | [English](https://github.com/Alwaysmeo/alwaysme/blob/main/tools/README.md)
+- 简体中文 | [English](https://github.com/alwaysmeo/tools/blob/main/README.md)
 
 ## 说明
 
