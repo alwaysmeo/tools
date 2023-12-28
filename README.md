@@ -1,5 +1,9 @@
 # Alwaysmeo-tools
 
+## 💬 Language
+
+- [简体中文](https://github.com/Alwaysmeo/alwaysme/blob/main/tools/README_zh_Hans.md) | English
+
 ## Description
 
 - Instant toolbox.
