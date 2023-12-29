@@ -1,0 +1,40 @@
+// 全局公共样式类名
+
+// 循环生成 [字体大小，行高]
+@for $i from 10 through 50 {
+	@if $i % 2 == 0 {
+		.font-size-#{$i} {
+			font-size: #{$i}px;
+		}
+		.line-height-#{$i} {
+			line-height: #{$i}px;
+		}
+	}
+}
+
+.text-align-left {
+	text-align: left;
+}
+.text-align-right {
+	text-align: right;
+}
+.text-align-center {
+	text-align: center;
+}
+.text-align-justify {
+	text-align: justify;
+}
+
+.font-weight-light {
+	font-weight: 300;
+}
+.font-weight-normal {
+	font-weight: 400;
+}
+.font-weight-bold {
+	font-weight: 700;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}

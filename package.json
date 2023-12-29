@@ -1,21 +1,26 @@
 {
-  "name": "tools",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "tauri": "tauri"
-  },
-  "dependencies": {
-    "vue": "^3.3.4",
-    "@tauri-apps/api": "^1.5.2"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.3",
-    "vite": "^5.0.0",
-    "@tauri-apps/cli": "^1.5.8"
-  }
+	"name": "tools",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"tauri": "tauri"
+	},
+	"dependencies": {
+		"@tauri-apps/api": "^1.5.2",
+		"pinia": "^2.1.7",
+		"pinia-plugin-persistedstate": "^3.2.1",
+		"vue": "^3.3.4",
+		"vue-router": "^4.2.5"
+	},
+	"devDependencies": {
+		"@tauri-apps/cli": "^1.5.8",
+		"@vitejs/plugin-vue": "^4.2.3",
+		"@vitejs/plugin-vue-jsx": "^3.1.0",
+		"sass": "^1.69.6",
+		"vite": "^5.0.0"
+	}
 }

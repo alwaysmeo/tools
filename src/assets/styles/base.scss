@@ -1,0 +1,39 @@
+// 基础样式
+html,
+body,
+#app {
+	color: var(--color-text);
+	font-family: 'Microsoft Yahei';
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+img {
+	vertical-align: middle;
+	border-style: none;
+}
+
+input,
+select {
+	vertical-align: middle;
+}
+
+li,
+ol {
+	list-style: none;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
